@@ -34,13 +34,13 @@ from phonenumbers import timezone,geocoder,carrier</h4>
 <img src="graph.png"/>
 
 
-<h1>Turtle graphics</h1>
+<h1>Turtle graphics</h1><hr>
 
-<p>used inbuilt turtle library in python to create fun animations and graphics,in this i used basic while loop to continue the turtle animation and movement till loops break after the given condition, and also the basic forward movement of turtle and right angle direction to direct it and also used inbuilt pendown().Also filled color and background color as black.
+<p>It is  an inbuilt python library to create fun animation,graphic and shape,in this i used basic while loop to continue the turtle animation and movement till loops break after the given condition, and also the basic forward movement of turtle and right angle direction to direct it and also used inbuilt penup() to centre the graphic. Also filled pencolor as red and background color as black.<br>
 
 
 
-<img src="/screenshots/Screenshot 2023-04-19 at 11.44.53 PM.png " width=60%/>
+<img src="/screenshots/Screenshot 2023-04-19 at 11.44.53 PM.png " width=50%/>
 
 
 
