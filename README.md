@@ -41,6 +41,10 @@ from phonenumbers import timezone,geocoder,carrier</h4>
 
 
 <img src="/screenshots/Screenshot 2023-04-19 at 11.44.53 PM.png " width=50%/>
+  
+<h1>Random password generator<h1>
+
+<h4>Using string and request library created a script for generating a unique password according to user</h4>
 
 
 
