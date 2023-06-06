@@ -45,6 +45,10 @@ from phonenumbers import timezone,geocoder,carrier</h4>
 <h1>Random password generator<h1>
 
 <h4>Using string and request library created a script for generating a unique password according to user</h4>
+<h1>Countdown Timer</h1>
+<p>built using time library in python where user can input the time in seconds and timer represents the value in hours,minutes and seconds for the corresponding input.</p>
+  
+<img src="screenshots/timer.png" width=50%/>
 
 
 
